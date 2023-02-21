@@ -10,10 +10,13 @@ Twinkle stores the local address book in a file:
 
 Due to the fact that the format of the address book in MicroSIP and in Twinkle is different, it is not possible to transfer data by simply copying the file. Therefore, I decided make a tool for do this task.
 
-Using MicroSIP, I completed data in the "Name" and "Number" fields when adding contacts to the database.
+Using MicroSIP, I complete data in the "Name" and "Number" fields when adding contacts to the database.
 
 In my case, I use a public SIP server and each caller is presented as 12345567@sip.MyPublicSIPserver.pl in Twinkle.
 
 Before you run the script, modify the data in line 5,6,7.
 
 After using the script, copy your outFile to /home/user/.twinkle/twinkle.ab
+
+Tested on:
+Python 3.10.9 & Twinkle 1.10.3 & MicroSIP 3.20.7
