@@ -8,7 +8,7 @@ C:\Users\user\AppData\Roaming\MicroSIP\Contacts.xml
 Twinkle stores the local address book in a file:
 /home/user/.twinkle/twinkle.ab
 
-Due to the fact that the format of the address book in MicroSIP and in Twinkle is different, it is not possible to transfer data by simply copying the file. Therefore, I decided make a tool for do this task.
+Due to the fact that the format of the address book in MicroSIP and in Twinkle is different, it is not possible to transfer data by simply copying the Contacts.xml file. Therefore, I decided make a tool for do this task.
 
 Using MicroSIP, I complete data in the "Name" and "Number" fields when adding contacts to the database.
 
