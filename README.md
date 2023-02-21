@@ -1,4 +1,4 @@
-# -convert-microsip-local-address-book-to-twinkle
+# convert-microsip-local-address-book-to-twinkle
 
 When I migrated from Windows to Arch Linux I wanted to copy my local address book from MicroSIP under Windows to Twinkle on Linux, because SIP softphone is my daily work tool.
 
