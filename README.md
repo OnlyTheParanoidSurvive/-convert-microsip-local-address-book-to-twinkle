@@ -16,7 +16,7 @@ In my case, I use a public SIP server and each caller is presented as 12345567@s
 
 Before you run the script, modify the data in line 5,6,7.
 
-After using the script, copy your outFile to /home/user/.twinkle/twinkle.ab
+After using the script, copy your outFile as /home/user/.twinkle/twinkle.ab
 
 Tested on:
 Python 3.10.9 & Twinkle 1.10.3 & MicroSIP 3.20.7
